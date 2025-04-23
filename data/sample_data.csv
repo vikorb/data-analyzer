@@ -1,0 +1,16 @@
+date,category,amount,customer_id
+2023-01-05,groceries,124.56,C001
+2023-01-08,electronics,899.99,C002
+2023-01-10,groceries,75.25,C003
+2023-01-15,clothing,149.99,C001
+2023-01-20,electronics,450.00,C004
+2023-01-22,groceries,65.75,C002
+2023-01-25,clothing,89.99,C003
+2023-01-28,groceries,112.34,C001
+2023-02-01,electronics,1299.99,C004
+2023-02-05,groceries,94.55,C002
+2023-02-10,clothing,199.99,C001
+2023-02-15,groceries,87.25,C003
+2023-02-20,electronics,349.99,C002
+2023-02-25,groceries,132.45,C004
+2023-03-01,clothing,79.99,C003
